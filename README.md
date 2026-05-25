@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Full Stack Web Developer 👩‍🎓 4th Year Undergraduate (B.Tech CSE, LPU) 🌱 Currently learning the MERN Stack 🎯 2026 Goal: Actively contribute to Open Source Projects 🏸 Hobbies: Playing Badminton, Kho-Kho, Cricket and creating Art ✨ Passionate about building dynamic, scalable web applications.
+🚀 Full Stack Web Developer 👩‍🎓 4th Year Undergraduate (B.Tech CSE, LPU) 🌱 Currently learning the MERN Stack🏸 Hobbies: Playing Badminton, Kho-Kho, Cricket and creating Art ✨ Passionate about building dynamic, scalable web applications.
 
-<img width="500" height="500" alt="68747470733a2f2f7468756d62732e647265616d7374696d652e636f6d2f7a2f736572656e652d636f64696e672d6e696768742d616e696d652d6769726c2d776f726b696e672d6865616470686f6e65732d7261696e792d6369747973636170652d696d6d657" src="https://github.com/user-attachments/assets/e1bb0dd2-a50b-44d3-a524-1020bc46193c" />
+<img width="500" height="300" alt="68747470733a2f2f7468756d62732e647265616d7374696d652e636f6d2f7a2f736572656e652d636f64696e672d6e696768742d616e696d652d6769726c2d776f726b696e672d6865616470686f6e65732d7261696e792d6369747973636170652d696d6d657" src="https://github.com/user-attachments/assets/e1bb0dd2-a50b-44d3-a524-1020bc46193c" />
 
 
 
